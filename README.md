@@ -1,6 +1,6 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
 
-# Materia - FAMAF - Computacion
+# Materia - FAMAF - Matemática Aplicada
 
 > Cuatrimestre
 
